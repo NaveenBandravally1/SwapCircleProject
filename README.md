@@ -1,4 +1,4 @@
-# 🚀 SwapCircle Backend
+# 🚀 SwapCircle Project
 
 A simple college marketplace backend that allows users to buy, sell, and negotiate items with real-time chat — built as an MVP for a campus exchange platform.
 
