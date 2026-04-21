@@ -1,0 +1,15 @@
+com/yourapp/marketplace/controller/MessageController.class
+com/yourapp/marketplace/storage/FileStorageService.class
+com/yourapp/marketplace/controller/ItemController.class
+com/yourapp/marketplace/model/Item.class
+com/yourapp/marketplace/repository/MessageRepository.class
+com/yourapp/marketplace/WebConfig.class
+com/yourapp/marketplace/service/MessageService.class
+com/yourapp/marketplace/repository/ItemRepository.class
+com/yourapp/marketplace/model/Message.class
+com/yourapp/marketplace/service/OfferService.class
+com/yourapp/marketplace/service/ItemService.class
+com/yourapp/marketplace/repository/OfferRepository.class
+com/yourapp/marketplace/controller/OfferController.class
+com/yourapp/marketplace/MarketplaceApplication.class
+com/yourapp/marketplace/model/Offer.class

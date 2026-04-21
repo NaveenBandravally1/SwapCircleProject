@@ -1,0 +1,15 @@
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/repository/MessageRepository.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/model/Message.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/repository/OfferRepository.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/controller/ItemController.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/MarketplaceApplication.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/controller/OfferController.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/WebConfig.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/service/ItemService.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/storage/FileStorageService.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/service/MessageService.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/model/Offer.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/service/OfferService.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/controller/MessageController.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/repository/ItemRepository.java
+/Users/I578386/Desktop/SwapCircleProject/backend/src/main/java/com/yourapp/marketplace/model/Item.java
